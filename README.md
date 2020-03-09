@@ -3,10 +3,10 @@
 El menu principal presenta 5 opciones:
 
 	1. Nuevo proceso 
-	1. Ver lista de procesos 
-	1. Enviar mensaje
-	1. Mostrar mensajes ordenados de proceso 
-	1. Terminar ejecución 
+	2. Ver lista de procesos 
+	3. Enviar mensaje
+	4. Mostrar mensajes ordenados de proceso 
+	0. Terminar ejecución 
 	
 	Para seleccionar una opción, escribe el numero de la opción que desees seleccionar y presiona enter
 	
@@ -24,5 +24,5 @@ El menu principal presenta 5 opciones:
 	Permite mostrar una lista ordenada de todos los mensajes que un proceso ha recibido 
 	Pide el numero de proceso del cual se desean ver los mensajes
 	
-# 5. Terminar ejecución 
+# 0. Terminar ejecución 
 	Termina el programa
