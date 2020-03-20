@@ -26,3 +26,6 @@ El menu principal presenta 5 opciones:
 	
 # 0. Terminar ejecución 
 	Termina el programa
+	
+	
+	:)
